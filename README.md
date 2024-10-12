@@ -1,7 +1,7 @@
 ## Student Information
 
-- **Name**: Abdinajib Mohamed Hassan
-- **Class ID**: C1210027
+- **Name**: Abdifitah Mohamed Hirey
+- **Class ID**: C1210012
 - **Class Name**: CA211
 
 --- 
