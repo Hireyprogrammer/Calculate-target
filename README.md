@@ -1,4 +1,10 @@
+## Student Information
 
+- **Name**: Abdinajib Mohamed Hassan
+- **Class ID**: C1210027
+- **Class Name**: CA211
+
+--- 
 # Target Calculation Excluding Specific Days
 
 ## Description
